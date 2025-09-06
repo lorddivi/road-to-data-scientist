@@ -8,7 +8,7 @@ It contains courses I completed, hands-on projects, and datasets I worked with.
 ## 📅 Learning Timeline (10 Weeks)
 
 ✅ Week 1–2: Python Basics  
-   - Project: [Student Score Tracker](01_python_basics/student_score_tracker.ipynb)
+   - Project: [Student Score Tracker](01_python_basics/students_score_tracker.ipynb)
 
 ✅ Week 2–3: Pandas & Intro to Data Science  
    - Project: [Iris Workflow](02_intro_data_science/iris_workflow.ipynb)  
